@@ -7,7 +7,7 @@
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [org.clojure/clojurescript "1.7.170"]
                  [org.clojure/core.async "0.2.374"]
-                 [cljsjs/incremental-dom "0.3"]]
+                 [cljsjs/incremental-dom "0.3-0"]]
 
   :source-paths ["src"]
 

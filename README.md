@@ -1,7 +1,5 @@
 # inkle
 
-**Note: inkle won't work for you until such a time as incremental-dom is added to the cljsjs package repository. I have a pull request waiting, and will remove this message as soon as it's merged.**
-
 Easy [Incremental Dom](http://github.com/google/incremental-dom) rendering using [ClojureScript](http://github.com/clojure/clojurescript).
 
 Fast dom updating with a low compiled size. Since Incremental Dom is closure compiler compatible, it adds very little overhead to your clojurescript project. The TODOMVC example is 147kb after compilation, and only 35kb gzipped.
