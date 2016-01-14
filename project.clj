@@ -1,4 +1,4 @@
-(defproject inkle "0.1.0"
+(defproject inkle/inkle "0.1.0"
   :description "clojurescript - incremental dom integration"
   :url "http://github.com/tommichaelis/inkle"
   :license {:name "MIT License"
