@@ -1,6 +1,6 @@
 # inkle
 
-[![Clojars Project](https://img.shields.io/clojars/v/inkle.svg)](https://clojars.org/inkle)
+[![Clojars Project](https://clojars.org/inkle/latest-version.svg)](https://clojars.org/inkle)
 
 Easy [Incremental Dom](http://github.com/google/incremental-dom) rendering using [ClojureScript](http://github.com/clojure/clojurescript).
 
